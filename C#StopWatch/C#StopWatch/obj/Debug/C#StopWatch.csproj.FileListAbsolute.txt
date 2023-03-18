@@ -1,0 +1,14 @@
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\bin\Debug\C#StopWatch.exe.config
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\bin\Debug\C#StopWatch.exe
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\bin\Debug\C#StopWatch.pdb
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\bin\Debug\en-US\C#StopWatch.resources.dll
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.csproj.AssemblyReference.cache
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C_StopWatch.Stop_Watch.resources
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C_StopWatch.Properties.Resources.resources
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C_StopWatch.Stop_Watch.en-US.resources
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.csproj.GenerateResource.cache
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\en-US\C#StopWatch.resources.dll
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.exe
+C:\Users\Mohammed\source\repos\C#StopWatch\C#StopWatch\obj\Debug\C#StopWatch.pdb
